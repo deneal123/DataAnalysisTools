@@ -20,8 +20,10 @@
 DataAnalysisTools/
 ├── HomeWork/
 │   ├── HW1/                       # Домашнее задание №1
+│   │   ├── DATA_SPOTIFY.csv
 │   │   ├── HW1.ipynb
-│   │   └── HW1.html
+│   │   ├── HW1.html
+│   │   └── TASK1.ipynb
 │   ├── HW2/                       # Домашнее задание №2
 │   │   ├── HW1.ipynb
 │   │   └── HW1.html
