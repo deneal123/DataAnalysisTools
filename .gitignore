@@ -136,7 +136,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-/HomeWork/HW1/DATA_SPOTIFY.csv
 
 # Spyder project settings
 .spyderproject
@@ -169,3 +168,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /data/
+/HomeWork/HW1/tracks_features.csv
+/HomeWork/HW1/music_instruments.csv
