@@ -7,11 +7,8 @@
 
 Выполненые домашние задания:
 * HTML
-  * [HW1](https://html-preview.github.io/?url=https://github.com/deneal123/DataAnalysisTools/blob/main/HomeWork/HW1/HW1.html)
-  * [HW2]()
-* PDF
-  * [HW1]()
-  * [HW2]()
+  * [**HW1**](https://html-preview.github.io/?url=https://github.com/deneal123/DataAnalysisTools/blob/main/HomeWork/HW1/HW1.html)
+  * [~~HW2~~]()
 
 ---
 
