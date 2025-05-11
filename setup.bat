@@ -1,6 +1,6 @@
 @echo off
 
-set PYTHON_VER=3.9
+set PYTHON_VER=3.10
 
 :: Проверка соотвествия версии python с рекомендуемой версией.
 python --version 2>nul | findstr /b /c:"Python %PYTHON_VER%" >nul

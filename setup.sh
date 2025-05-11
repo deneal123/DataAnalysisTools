@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PYTHON_VER=3.9
+PYTHON_VER=3.10
 
 # Проверка соответствия версии Python с рекомендуемой версией.
 python_version=$(python --version 2>&1)
